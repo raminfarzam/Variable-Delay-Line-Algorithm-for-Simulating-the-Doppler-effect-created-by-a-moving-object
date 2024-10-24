@@ -1,4 +1,5 @@
 function mse_result = calculate_mse(signal1, signal2, normalize)
+    %% this function Calculate the Mean square error comparing two signals
     % Check if the normalization flag is provided
     if nargin < 3
         normalize = false; % Default to false if not provided
