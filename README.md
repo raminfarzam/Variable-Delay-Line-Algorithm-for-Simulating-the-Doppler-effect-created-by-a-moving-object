@@ -6,4 +6,4 @@ This project aims to simulate a variable delay line algorithm and demonstrate it
 Two microphones placed at the center of the circle receive the sound signal, and the Time Difference of Arrival (TDOA) between the signals is estimated. This TDOA is used to align the received signals at the two microphones. The estimation of the TDOA is performed using a correlation-based method.
 
 For a more detailed explanation of the estimation methods used, please refer to:
-Spagnolini, Umberto. Statistical Signal Processing in Engineering. John Wiley & Sons, 2018.
+"Spagnolini, Umberto. Statistical Signal Processing in Engineering. John Wiley & Sons, 2018".
